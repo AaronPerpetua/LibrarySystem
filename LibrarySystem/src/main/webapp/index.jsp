@@ -198,13 +198,6 @@
 		 
 		 
 		 
-
-		 $('#adminlogin-form').submit(function(e){
-			 e.preventDefault();
-			 
-			 console.log("login admin");
-		 });
-		 
 	});
 		
  
