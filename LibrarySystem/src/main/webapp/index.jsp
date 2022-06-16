@@ -192,16 +192,12 @@
 						console.log(response);
 					}
 				}); 
-			 
-			 
+		 
 		 });
-		 
-		 
-		 
+	 
 	});
-		
  
-	</script>
+</script>
 </body>
 
 </html>
